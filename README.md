@@ -3,7 +3,7 @@
 [![Build Status](https://dev.azure.com/mscet/CAE-ALZ-Terraform/_apis/build/status/Tests/E2E?branchName=refs%2Ftags%2Fv2.4.1)](https://dev.azure.com/mscet/CAE-ALZ-Terraform/_build/latest?definitionId=26&branchName=refs%2Ftags%2Fv2.4.1)
 ![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/Azure/terraform-azurerm-caf-enterprise-scale?style=flat&logo=github)
 
-Detailed Simon information about how to use, configure and extend this module can be found on our Wiki:
+Detailed information about how to use, configure and extend this module can be found on our Wiki:
 
 - [Home][wiki_home]
 - [User Guide][wiki_user_guide]

@@ -20,4 +20,6 @@ module "enterprise_scale" {
   root_id        = "calvary"
   root_name      = "Calvary"
 
+  deploy_management_resources = true
+  subscription_id_management  = data.azurerm_client_config.core.subscription_id
 }
